@@ -201,3 +201,10 @@ typings/
 # Test setups
 /scripts/unsecure-test-setups/authelia-oidc/authelia/db.sqlite3
 /scripts/unsecure-test-setups/authelia-oidc/traefik/certs
+
+### DevSecOps (trabalho SSA)
+# Relatórios gerados pelas ferramentas (ficam como artefactos do Jenkins)
+reports/
+devsecops/.env
+Thumbs.db
+.DS_Store
